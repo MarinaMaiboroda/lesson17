@@ -1,0 +1,13 @@
+.hidden{
+	display: none;
+}
+
+.logo{
+	width: 50px;
+	height: 50px;
+	stroke: red;
+	}
+
+.scroll{
+	fill: #ccc;
+}
